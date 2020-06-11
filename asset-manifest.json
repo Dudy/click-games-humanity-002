@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/click-games-humanity-002/static/css/main.5f361e03.chunk.css",
+    "main.js": "/click-games-humanity-002/static/js/main.a0fff5f0.chunk.js",
+    "main.js.map": "/click-games-humanity-002/static/js/main.a0fff5f0.chunk.js.map",
+    "runtime-main.js": "/click-games-humanity-002/static/js/runtime-main.497252ef.js",
+    "runtime-main.js.map": "/click-games-humanity-002/static/js/runtime-main.497252ef.js.map",
+    "static/js/2.fdf8da83.chunk.js": "/click-games-humanity-002/static/js/2.fdf8da83.chunk.js",
+    "static/js/2.fdf8da83.chunk.js.map": "/click-games-humanity-002/static/js/2.fdf8da83.chunk.js.map",
+    "index.html": "/click-games-humanity-002/index.html",
+    "precache-manifest.e18ea2396bfa92b2ab7dfcb5b88e66bc.js": "/click-games-humanity-002/precache-manifest.e18ea2396bfa92b2ab7dfcb5b88e66bc.js",
+    "service-worker.js": "/click-games-humanity-002/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/click-games-humanity-002/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fdf8da83.chunk.js.LICENSE.txt": "/click-games-humanity-002/static/js/2.fdf8da83.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/click-games-humanity-002/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.497252ef.js",
+    "static/js/2.fdf8da83.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a0fff5f0.chunk.js"
+  ]
+}
